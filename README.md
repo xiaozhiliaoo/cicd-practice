@@ -1,2 +1,7 @@
 # cicd-practice
-cicd practice(jenkins,gitlab....)
+
+cicd practice，devops (jenkins,gitlab,....)
+
+## Book
+
+[书籍整理](./book)
